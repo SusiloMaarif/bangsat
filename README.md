@@ -1,0 +1,2 @@
+# bangsat
+tea testnet
